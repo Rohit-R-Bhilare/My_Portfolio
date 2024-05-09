@@ -5,7 +5,8 @@ Features
 Home Page: Introduces who I am, my expertise, and what visitors can expect to find on the site.
 About Me: Provides a detailed overview of my professional journey, skills, and personal interests.
 Portfolio: Displays a curated collection of my projects, each detailed with descriptions, outcomes, and links to live sites or additional resources.
-Blog: Shares my insights, tips, and experiences in the tech field, aiming to engage with the community and share knowledge.
+Skills: Shares my skills and projects.
+Certificates: Shares my recent certificates.
 Contact Form: Allows visitors to easily get in touch with me.
 Front-End Tech Stack
 This portfolio website utilizes a modern front-end tech stack ensuring a responsive, accessible, and visually appealing design:
